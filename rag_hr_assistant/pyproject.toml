@@ -1,0 +1,12 @@
+[project]
+name = "rag-hr-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai>=3.33.0",
+    "pinecone>=10.0.0",
+    "pypdf>=6.21.0",
+]
