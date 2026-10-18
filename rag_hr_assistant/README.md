@@ -17,3 +17,8 @@
     Since UV is the package manager that has all dependencies, to run the program
     uv run main.py , insead of python main.py
 
+# PineCone Vector
+
+    Need to create index, have model chosen as 'text-embeddding-3-small' and dimension as '1536'
+        - PINECONE_API_KEY
+        - PINECONE_INDEX_NAME
